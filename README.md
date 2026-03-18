@@ -2,7 +2,7 @@
 
 A production-ready Flask boilerplate with AI integration (Claude/Anthropic), Docker, and a full CI/CD pipeline via GitHub Actions. Deploy any AI-powered backend in minutes.
 
-> Built by [Your Name] · [Your Gumroad Link]
+> Built by Balu Mahendra · https://balumahendra.gumroad.com/l/vbscl
 
 ---
 
