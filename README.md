@@ -150,4 +150,4 @@ MIT — free to use for personal and commercial projects.
 
 ## 🙋 Support
 
-If you bought this template and need help, reach out at: **your@email.com**
+If you bought this template and need help, reach out at: **balumahendra592@gmail.com**
