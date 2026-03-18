@@ -46,7 +46,7 @@ flask-ai-devops-starter/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flask-ai-devops-starter.git
+git clone https://github.com/balumahendra592/flask-ai-devops-starter.git
 cd flask-ai-devops-starter
 pip install -r requirements.txt
 ```
